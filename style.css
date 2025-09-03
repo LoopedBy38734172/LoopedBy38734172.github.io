@@ -1,0 +1,43 @@
+.hero .row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 50px 0;
+}
+
+.btn-primary {
+  background-color: #d28834;
+  border: none;
+}
+
+.about {
+  background-color: #e3b178;
+  padding: 50px;
+}
+
+.text-justify {
+  text-align: justify;   
+  text-align-last: center;        
+}
+.faq-question {
+  font-weight: bold;
+}
+.article-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  padding: 10px;
+}
+.article-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  background: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
